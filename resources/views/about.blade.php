@@ -3,7 +3,7 @@
 @section('content')
 
     <!-- Hero Section -->
-    <section class="About-bg text-white d-flex align-items-end">
+    <section class="about-bg text-white d-flex align-items-end">
         <div class="container pb-5">
             <div class="row">
                 <div class="col-lg-8">
